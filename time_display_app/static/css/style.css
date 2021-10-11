@@ -25,6 +25,7 @@ h4, #datetime {
     border: 3px blue solid;
     width: 400px;
 }
-h2 {
-    color:blue;
+h3 {
+    color:red;
+    padding:10px;
 }
