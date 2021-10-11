@@ -1,0 +1,30 @@
+* {
+    margin:0px;
+    padding:0px;
+    border:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#wrapper {
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:20px auto;
+    width:500px;
+    /* background-color:aqua; */
+}
+
+h4, #datetime {
+    display:inline-block;
+    color:blue;
+    text-align: center;
+    margin:20px;
+    padding: 10px;
+    border: 3px blue solid;
+    width: 400px;
+}
+h2 {
+    color:blue;
+}
